@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kongkongbei\\Desktop\\QtProject\\Project01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kongkongbei\\Desktop\\QtProject\\Project01\\widget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:widget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kongkongbei\\Desktop\\QtProject\\Project01\\widget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:widget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kongkongbei\\Desktop\\QtProject\\Project01\\Project.pro||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.pro||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 186,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "widget.cpp",
+              "DocumentMoniker": "C:\\Users\\kongkongbei\\Desktop\\QtProject\\Project01\\widget.cpp",
+              "RelativeDocumentMoniker": "widget.cpp",
+              "ToolTip": "C:\\Users\\kongkongbei\\Desktop\\QtProject\\Project01\\widget.cpp",
+              "RelativeToolTip": "widget.cpp",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAAAHIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T07:51:10.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "widget.h",
+              "DocumentMoniker": "C:\\Users\\kongkongbei\\Desktop\\QtProject\\Project01\\widget.h",
+              "RelativeDocumentMoniker": "widget.h",
+              "ToolTip": "C:\\Users\\kongkongbei\\Desktop\\QtProject\\Project01\\widget.h",
+              "RelativeToolTip": "widget.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-13T07:50:26.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.pro",
+              "DocumentMoniker": "C:\\Users\\kongkongbei\\Desktop\\QtProject\\Project01\\Project.pro",
+              "RelativeDocumentMoniker": "Project.pro",
+              "ToolTip": "C:\\Users\\kongkongbei\\Desktop\\QtProject\\Project01\\Project.pro",
+              "RelativeToolTip": "Project.pro",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "0d2e443f-6dbb-4001-99dc-9cd7d5c924e7.000002|",
+              "WhenOpened": "2025-10-13T07:50:15.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
